@@ -4,9 +4,27 @@ body {
     margin: 0;
     padding: 0;
     display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+    background-image: url("https://alphadriver.com.br/cms/wp-content/uploads/2021/05/estrada-branca.png");
+}
+
+.banner{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    color: white;
+    background-color: #023867;
+    height: 5%;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.menu-usuario {
+    font-size: 15px;
+    
+
 }
 
 .login-container {
@@ -14,6 +32,11 @@ body {
     padding: 20px;
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 30%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
 
 h2 {
@@ -47,7 +70,7 @@ button {
     cursor: pointer;
 }
 
-.forgot {
+.forgot, .register {
     text-decoration: none;
     cursor: pointer;
 
