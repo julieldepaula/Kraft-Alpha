@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Tela de cadastro</title>
-    <link rel="stylesheet" href="stylecadastro.css">
+    <link rel="stylesheet" href="css/stylecadastro.css">
 
 </head>
 <body>
@@ -25,7 +25,7 @@
 <main>
     
     <div class="formulario-container">
-        <form method="POST" action="processa.php">
+        <form method="POST" action="control/processa.php">
             <fieldset>
                 <legend>Formulario de Cadastro</legend>
                 <br>

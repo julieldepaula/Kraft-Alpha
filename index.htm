@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tela de Login</title>
+    <link rel="stylesheet" href="css/stylelogin.css">
+    
+
+</head>
+<body>
+<header class="banner">
+    <div class="logo">
+        <h3>Logo</h3>
+    </div>
+    <div>
+        <h1>Sistema Alpha Driver</h1>
+    </div>
+    <div class="menu-usuario">
+        <h3>Menu usuário</h3>
+    </div>
+
+</header>
+<hr>
+<main>
+    
+    <div class="login-container">
+        <form action="login_test.php" method="post">
+            <h2>Login</h2>
+            <div class="input-group">
+                <label for="email">E-mail</label>
+                <input type="email" id="email" name="email" required>
+            </div>
+            <br>
+            <div class="input-group">
+                <label for="senha">Senha</label>
+                <input type="password" id="senha" name="senha" required>
+            </div>
+            <br>
+            <button type="submit">Entrar</button>
+        </form>
+        <br>
+        <a href="cadastro.php" class="register">Cadastre-se</a>
+        <br><br>
+        <a href="#" class="forgot">Esqueceu a senha ?</a>
+    </div>
+</main>
+<footer>
+
+</footer>
+</body>
+</html>
