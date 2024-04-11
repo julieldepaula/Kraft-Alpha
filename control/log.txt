@@ -1,0 +1,14 @@
+2024-04-11 01:14:56 - 2804:14d:5c81:8cf3:81ed:401f:d486:3f59 -  -  - valida.php - usuário não encontrado: reisla
+2024-04-11 01:14:56 - 2804:14d:5c81:8cf3:81ed:401f:d486:3f59 -  -  - valida.php - [ERRO] login inválido: reisla
+2024-04-11 01:14:56 - 2804:14d:5c81:8cf3:81ed:401f:d486:3f59 -  -  - valida.php - logout - 
+2024-04-11 01:15:16 - 2804:14d:5c81:8cf3:81ed:401f:d486:3f59 - 4 - reisla - valida.php - login válido: reisla
+2024-04-11 01:28:46 - 2804:14d:5c81:8cf3:81ed:401f:d486:3f59 - 4 - reisla - valida.php - login válido: reisla
+2024-04-11 19:53:39 - 177.23.48.42 -  -  - valida.php - usuário não encontrado: jp@teste.com
+2024-04-11 19:53:39 - 177.23.48.42 -  -  - valida.php - [ERRO] login inválido: jp@teste.com
+2024-04-11 19:53:39 - 177.23.48.42 -  -  - valida.php - logout - 
+2024-04-11 19:53:57 - 177.23.48.42 -  -  - valida.php - usuário não encontrado: jp@teste.com
+2024-04-11 19:53:57 - 177.23.48.42 -  -  - valida.php - [ERRO] login inválido: jp@teste.com
+2024-04-11 19:53:57 - 177.23.48.42 -  -  - valida.php - logout - 
+2024-04-11 19:54:56 - 177.23.48.42 -  -  - valida.php - usuário não encontrado: jp@teste.com
+2024-04-11 19:54:56 - 177.23.48.42 -  -  - valida.php - [ERRO] login inválido: jp@teste.com
+2024-04-11 19:54:56 - 177.23.48.42 -  -  - valida.php - logout - 

@@ -1,6 +1,13 @@
+		<?php
+		include("control/seguranca.php"); // Inclui o arquivo com o sistema de segurança
+		protegePagina();
+		
+		$nome = (isset($_SESSION['usuarioNome']))? $_SESSION['usuarioNome'] : "" ;
+		//logMe("acesso " .$nome. " - Listagem de alunos");
+		?>
 <?php
-session_start();
-require_once 'control/config.php';
+/* session_start();
+require_once 'control/seguranca.php';
 //echo $_SESSION['nome'];
 if((!isset($_SESSION['nome']) == true) and (!isset($_SESSION['id']) == true))
 {
@@ -10,11 +17,10 @@ if((!isset($_SESSION['nome']) == true) and (!isset($_SESSION['id']) == true))
     header('Location: index.html');
 }
 $logado = $_SESSION['nome'];
-
+*/
 //pegando no banco todas as infomaçãoes registradas
-$sql = "SELECT * FROM usuarios ORDER BY id ASC";
-
-$result = $conexao->query($sql);
+$sql = "SELECT * FROM empresas ORDER BY id ASC";
+$result = mysqli_query($_SG['link'], $sql);
 ?>
 
 <!DOCTYPE html>
@@ -33,7 +39,7 @@ $result = $conexao->query($sql);
         <h3>Logo</h3>
     </div>
     <div>
-        <h1><?php echo "Bem vindo " .$logado?> </h1>
+        <h1><?php echo "Bem vindo " .$nome?> </h1>
     </div>
     <div class="menu-usuario">
         <h3>Menu usuário</h3>

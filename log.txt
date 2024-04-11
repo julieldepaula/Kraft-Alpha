@@ -1,0 +1,35 @@
+2024-04-11 01:32:53 - 2804:14d:5c81:8cf3:81ed:401f:d486:3f59 - 4 - reisla - view_user.php - update-> 3
+2024-04-11 01:33:14 - 2804:14d:5c81:8cf3:81ed:401f:d486:3f59 - 4 - reisla - view_user.php - update=> 3
+2024-04-11 01:33:14 - 2804:14d:5c81:8cf3:81ed:401f:d486:3f59 - 4 - reisla - view_user.php - nome=>JULIEL-2
+2024-04-11 01:33:14 - 2804:14d:5c81:8cf3:81ed:401f:d486:3f59 - 4 - reisla - view_user.php - celular=>-15
+2024-04-11 01:33:14 - 2804:14d:5c81:8cf3:81ed:401f:d486:3f59 - 4 - reisla - view_user.php - email=>-8
+2024-04-11 01:33:14 - 2804:14d:5c81:8cf3:81ed:401f:d486:3f59 - 4 - reisla - view_user.php - secret=>827ccb0eea8a706c4c34a16891f84e7b-24
+2024-04-11 01:33:14 - 2804:14d:5c81:8cf3:81ed:401f:d486:3f59 - 4 - reisla - view_user.php - troca=>on-
+2024-04-11 01:33:14 - 2804:14d:5c81:8cf3:81ed:401f:d486:3f59 - 4 - reisla - view_user.php - senha=>-
+2024-04-11 01:33:14 - 2804:14d:5c81:8cf3:81ed:401f:d486:3f59 - 4 - reisla - view_user.php - confirma=>-
+2024-04-11 01:33:14 - 2804:14d:5c81:8cf3:81ed:401f:d486:3f59 - 4 - reisla - view_user.php - role=>u-32
+2024-04-11 01:33:14 - 2804:14d:5c81:8cf3:81ed:401f:d486:3f59 - 4 - reisla - view_user.php - user_id=>4-
+2024-04-11 01:33:14 - 2804:14d:5c81:8cf3:81ed:401f:d486:3f59 - 4 - reisla - view_user.php - user_cadastro=>reisla-
+2024-04-11 01:33:14 - 2804:14d:5c81:8cf3:81ed:401f:d486:3f59 - 4 - reisla - view_user.php - dt_registro=>11/04/2024 01:32:53-
+2024-04-11 01:33:14 - 2804:14d:5c81:8cf3:81ed:401f:d486:3f59 - 4 - reisla - view_user.php - id=>3-
+2024-04-11 01:33:14 - 2804:14d:5c81:8cf3:81ed:401f:d486:3f59 - 4 - reisla - view_user.php - act=>update-
+2024-04-11 01:33:14 - 2804:14d:5c81:8cf3:81ed:401f:d486:3f59 - 4 - reisla - view_user.php - UPDATE  `usuario` SET `nome` = 'JULIEL', `celular` = '', `email` = '', `secret` = '827ccb0eea8a706c4c34a16891f84e7b', `role` = 'u' WHERE `id`=3
+2024-04-11 01:33:20 - 2804:14d:5c81:8cf3:81ed:401f:d486:3f59 - 4 - reisla - view_user.php - update-> 3
+2024-04-11 01:33:27 - 2804:14d:5c81:8cf3:81ed:401f:d486:3f59 - 4 - reisla - view_user.php - update=> 3
+2024-04-11 01:33:27 - 2804:14d:5c81:8cf3:81ed:401f:d486:3f59 - 4 - reisla - view_user.php - nome=>JULIEL-2
+2024-04-11 01:33:27 - 2804:14d:5c81:8cf3:81ed:401f:d486:3f59 - 4 - reisla - view_user.php - celular=>-15
+2024-04-11 01:33:27 - 2804:14d:5c81:8cf3:81ed:401f:d486:3f59 - 4 - reisla - view_user.php - email=>-8
+2024-04-11 01:33:27 - 2804:14d:5c81:8cf3:81ed:401f:d486:3f59 - 4 - reisla - view_user.php - secret=>827ccb0eea8a706c4c34a16891f84e7b-24
+2024-04-11 01:33:27 - 2804:14d:5c81:8cf3:81ed:401f:d486:3f59 - 4 - reisla - view_user.php - senha=>-
+2024-04-11 01:33:27 - 2804:14d:5c81:8cf3:81ed:401f:d486:3f59 - 4 - reisla - view_user.php - confirma=>-
+2024-04-11 01:33:27 - 2804:14d:5c81:8cf3:81ed:401f:d486:3f59 - 4 - reisla - view_user.php - role=>a-32
+2024-04-11 01:33:27 - 2804:14d:5c81:8cf3:81ed:401f:d486:3f59 - 4 - reisla - view_user.php - user_id=>4-
+2024-04-11 01:33:27 - 2804:14d:5c81:8cf3:81ed:401f:d486:3f59 - 4 - reisla - view_user.php - user_cadastro=>reisla-
+2024-04-11 01:33:27 - 2804:14d:5c81:8cf3:81ed:401f:d486:3f59 - 4 - reisla - view_user.php - dt_registro=>11/04/2024 01:33:20-
+2024-04-11 01:33:27 - 2804:14d:5c81:8cf3:81ed:401f:d486:3f59 - 4 - reisla - view_user.php - id=>3-
+2024-04-11 01:33:27 - 2804:14d:5c81:8cf3:81ed:401f:d486:3f59 - 4 - reisla - view_user.php - act=>update-
+2024-04-11 01:33:27 - 2804:14d:5c81:8cf3:81ed:401f:d486:3f59 - 4 - reisla - view_user.php - UPDATE  `usuario` SET `nome` = 'JULIEL', `celular` = '', `email` = '', `secret` = '827ccb0eea8a706c4c34a16891f84e7b', `role` = 'a' WHERE `id`=3
+2024-04-11 01:34:52 - 2804:14d:5c81:8cf3:81ed:401f:d486:3f59 - 4 - reisla - view_user.php - update-> 3
+2024-04-11 01:34:57 - 2804:14d:5c81:8cf3:81ed:401f:d486:3f59 - 4 - reisla - view_user.php - update-> 3
+2024-04-11 19:38:15 - 177.23.48.42 -  -  - painel.php - protege pagina: Não há usuário ativo.
+2024-04-11 19:38:15 - 177.23.48.42 -  -  - painel.php - logout - 
