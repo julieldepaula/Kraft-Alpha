@@ -11,14 +11,16 @@ $senha = filter_input(INPUT_POST, 'senha');
 $confsenha = filter_input(INPUT_POST, 'confsenha');
 
 //gravando dados com proteçao contra hacker
-$smtp = $conexao->prepare("INSERT INTO usuarios (empresa, cnpj, responsavel, contato, email, senha, confsenha ) VALUES (?,?,?,?,?,?,?)");
+$smtp = $conexao->prepare("INSERT INTO empresas (empresa, cnpj, responsavel, contato, email, senha, confsenha ) VALUES (?,?,?,?,?,?,?)");
 $smtp -> bind_param("sssssss", $empresa, $cnpj, $responsavel, $contato, $email, $senha, $confsenha );
 
 //testando se os dados foram salvos
 if($smtp->execute())
 {
-    echo "Dados gravados";
+    header("Location: ../alertas/sucesso.html");
+
 }else{
+    header("Location: ../alertas/cad_falha.php");
     echo "Erro" .$smtp->error;
 }
 

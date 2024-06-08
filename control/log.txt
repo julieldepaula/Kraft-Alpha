@@ -12,3 +12,58 @@
 2024-04-11 19:54:56 - 177.23.48.42 -  -  - valida.php - usuário não encontrado: jp@teste.com
 2024-04-11 19:54:56 - 177.23.48.42 -  -  - valida.php - [ERRO] login inválido: jp@teste.com
 2024-04-11 19:54:56 - 177.23.48.42 -  -  - valida.php - logout - 
+2024-04-11 23:59:03 - 177.23.48.42 -  -  - valida.php - usuário não encontrado: jp@teste.com
+2024-04-11 23:59:03 - 177.23.48.42 -  -  - valida.php - [ERRO] login inválido: jp@teste.com
+2024-04-11 23:59:03 - 177.23.48.42 -  -  - valida.php - logout - 
+2024-04-11 23:59:54 - 177.23.48.42 -  -  - valida.php - usuário não encontrado: teste@teste.com
+2024-04-11 23:59:54 - 177.23.48.42 -  -  - valida.php - [ERRO] login inválido: teste@teste.com
+2024-04-11 23:59:54 - 177.23.48.42 -  -  - valida.php - logout - 
+2024-04-12 00:00:06 - 177.23.48.42 -  -  - valida.php - usuário não encontrado: teste1@teste.com
+2024-04-12 00:00:06 - 177.23.48.42 -  -  - valida.php - [ERRO] login inválido: teste1@teste.com
+2024-04-12 00:00:06 - 177.23.48.42 -  -  - valida.php - logout - 
+2024-04-12 07:00:14 - 177.23.48.42 -  -  - valida.php - usuário não encontrado: jp@teste.com
+2024-04-12 07:00:14 - 177.23.48.42 -  -  - valida.php - [ERRO] login inválido: jp@teste.com
+2024-04-12 07:00:14 - 177.23.48.42 -  -  - valida.php - logout - 
+2024-04-13 11:58:02 - 2804:14d:5c81:8cf3:998e:2dcd:c206:3f9e - 4 - reisla - valida.php - login válido: reisla
+2024-04-13 15:23:51 - 2804:388:4117:98da:1:0:7711:1dcf - 3 - JULIEL - valida.php - login válido: juliel 
+2024-04-13 23:15:56 - 177.23.48.42 -  -  - valida.php - usuário não encontrado: julie
+2024-04-13 23:15:56 - 177.23.48.42 -  -  - valida.php - [ERRO] login inválido: julie
+2024-04-13 23:15:56 - 177.23.48.42 -  -  - valida.php - logout - 
+2024-04-13 23:16:18 - 177.23.48.42 - 3 - JULIEL - valida.php - login válido: juliel
+2024-04-16 18:52:26 - 2804:388:411b:7ab5:1:0:8773:2de1 - 3 - JULIEL - valida.php - login válido: juliel
+2024-04-16 19:47:51 - 2804:388:411b:7ab5:1:0:8773:2de1 - 3 - JULIEL - valida.php - login válido: juliel
+2024-04-17 12:48:27 - 2804:14d:5c81:8cf3:3d2a:79ab:bf97:ec39 - 4 - reisla - valida.php - login válido: reisla
+2024-04-19 16:32:08 - 2804:14d:5c81:8cf3:e181:b573:6615:3c3c - 4 - reisla - valida.php - login válido: reisla
+2024-04-20 07:55:27 - 2804:388:4113:787e:1:0:9a4e:2364 - 3 - JULIEL - valida.php - login válido: juliel
+2024-04-23 09:13:39 - 177.23.48.42 - 3 - JULIEL - valida.php - login válido: juliel
+2024-04-25 09:26:05 - 2804:7f1:eb42:c0c5:75eb:7efd:4436:3fed - 3 - JULIEL - valida.php - login válido: Juliel
+2024-05-07 14:54:14 - 177.23.48.42 - 3 - JULIEL - valida.php - login válido: juliel
+2024-05-07 15:45:08 - 177.23.48.42 - 3 - JULIEL - delete.php - update-> 19
+2024-05-07 15:46:09 - 177.23.48.42 - 3 - JULIEL - delete.php - update-> 19
+2024-05-07 15:46:19 - 177.23.48.42 - 3 - JULIEL - delete.php - update-> 19
+2024-05-07 15:47:32 - 177.23.48.42 - 3 - JULIEL - delete.php - update-> 19
+2024-05-07 15:47:38 - 177.23.48.42 - 3 - JULIEL - delete.php - update-> 19
+2024-05-07 15:47:43 - 177.23.48.42 - 3 - JULIEL - delete.php - update-> 19
+2024-05-07 15:47:46 - 177.23.48.42 - 3 - JULIEL - delete.php - update-> 19
+2024-05-07 15:47:49 - 177.23.48.42 - 3 - JULIEL - delete.php - update-> 19
+2024-05-07 15:48:00 - 177.23.48.42 - 3 - JULIEL - delete.php - update-> 19
+2024-05-07 15:49:21 - 177.23.48.42 - 3 - JULIEL - delete.php - update-> 19
+2024-05-07 15:52:18 - 177.23.48.42 - 3 - JULIEL - delete.php - update-> 19
+2024-05-07 15:55:33 - 177.23.48.42 - 3 - JULIEL - delete.php - update-> 19
+2024-05-07 16:03:32 - 177.23.48.42 - 3 - JULIEL - delete.php - update-> 19
+2024-05-07 16:09:06 - 177.23.48.42 - 3 - JULIEL - delete.php - update-> 19
+2024-05-07 16:09:08 - 177.23.48.42 - 3 - JULIEL - delete.php - update-> 19
+2024-05-07 16:09:10 - 177.23.48.42 - 3 - JULIEL - delete.php - update-> 19
+2024-05-07 16:09:12 - 177.23.48.42 - 3 - JULIEL - delete.php - update-> 19
+2024-05-07 16:09:13 - 177.23.48.42 - 3 - JULIEL - delete.php - update-> 19
+2024-05-07 16:09:21 - 177.23.48.42 - 3 - JULIEL - delete.php - update-> 19
+2024-05-07 16:09:23 - 177.23.48.42 - 3 - JULIEL - delete.php - update-> 19
+2024-05-07 16:10:28 - 177.23.48.42 - 3 - JULIEL - delete.php - update-> 19
+2024-05-07 16:10:40 - 177.23.48.42 - 3 - JULIEL - delete.php - update-> 19
+2024-05-07 16:10:41 - 177.23.48.42 - 3 - JULIEL - delete.php - update-> 19
+2024-05-07 16:10:43 - 177.23.48.42 - 3 - JULIEL - delete.php - update-> 19
+2024-05-07 16:10:44 - 177.23.48.42 - 3 - JULIEL - delete.php - update-> 19
+2024-05-07 16:10:45 - 177.23.48.42 - 3 - JULIEL - delete.php - update-> 19
+2024-05-07 23:07:32 - 177.23.48.42 - 3 - JULIEL - valida.php - login válido: Juliel
+2024-05-08 12:52:31 - 2804:388:410c:3245:1:0:f79b:a344 - 3 - JULIEL - valida.php - login válido: Juliel
+2024-05-11 00:24:25 - 177.23.48.42 - 3 - JULIEL - valida.php - login válido: juliel

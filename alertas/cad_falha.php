@@ -3,9 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tela de Login</title>
+    <title>Dados gravados com sucesso</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.css">
-    <link rel="stylesheet" href="css/stylecadastro.css">
+    <link rel="stylesheet" href="../css/stylecadastro.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
 </head>
@@ -15,8 +15,9 @@
         <nav class="navbar navbar-inverse">
             <div class="container-fluid ">
                 <div class="navbar-header">
-                    <img src="assets/logo-alpha-driver-branco.png" alt="logo alpha driver">
-                 
+                    <a href="../index.html">
+                        <img src="../assets/logo-alpha-driver-branco.png" alt="logo alpha driver">
+                    </a>
                 </div>
     
     
@@ -45,24 +46,12 @@
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-md-8">
-                <form action="control/valida.php" method="post">
-                    <legend>Login</legend>
-                    <div class="input-group">
-                        <label for="usuario">Usuário</label>
-                        <input class="form-control" type="usuario" id="usuario" name="usuario" required>
-                    </div>
-                    <br>
-                    <div class="input-group">
-                        <label for="senha">Senha</label>
-                        <input class="form-control" type="password" id="senha" name="senha" required>
-                    </div>
-                    <br>
-                    <button type="submit">Entrar</button>
-                </form>
-                <br>
-                <a href="cadastro.php" class="register">Cadastre-se</a>
-                <br><br>
-                <a href="#" class="forgot">Esqueceu a senha ?</a>
+                <div class="alert alert-danger">
+                    <h3>Erro, dados não enviados! <br>
+                        Volte para tela de cadastro <a href="../cadastro.php">clicando aqui.</a></h3>
+
+                        <?php echo $smtp->error; ?> 
+                </div>
             </div>
         </div>
     </div>

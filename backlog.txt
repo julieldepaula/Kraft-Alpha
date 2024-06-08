@@ -1,0 +1,27 @@
+corrigir header no view_user OK
+
+inserir header e crud no edit ok
+(transformar o edit em view_empresa) ok
+Botões editar e deletar funcionando com Modal ok
+
+importantar dados do Banco view_empresa ok
+
+inserir o header no painel.php    OK 
+
+atualizar o cadastro.php para bootstrap ok
+
+Serviços e Escalas
+Inclusão da planilhas "Escalas" ok
+
+colocar um pagina de resposta no processa.php (aguarde nosso contato...) ok
+
+cadastro, login e esqueci minha senha (não são protegidos pelo segurança) ok
+
+formulario de carros
+list e view
+
+formularios de categoria
+list e view
+
+cadastro de Os
+list e view

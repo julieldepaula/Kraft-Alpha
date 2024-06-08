@@ -76,24 +76,27 @@ function changeText(user_id, user_nome) {
   <div class="modal-dialog">
 
     <!-- Modal content-->
-    <div class="modal-content">
-      <div class="modal-header">
+    <div class="modal-content modal-lg">
+      <div class="modal-header bg-primary">
         <button type="button" class="close" data-dismiss="modal">&times;</button>
         <h4 class="modal-title">Deletar Usuário?</h4>
       </div>
       <div class="modal-body">
 		 <form method="post" id="form_modal"  action="" class="form-group">
 
-		  <label for="user">Usuário</label>
-		  <input type="text" size=3 name="id"  id="student_id" readonly /> - 
+		  <label for="user">ID:  </label>
+		  <input type="text" size=3 name="id"  id="student_id" readonly />
+          <br>
+          <label for="user">Usuário:  </label>
 		  <input type="text" id="user" name="student_name" readonly />
+          <br>
           <input type="hidden" name="act" value="delete"/>
 
-		  <button type="submit" class="btn btn-default">deletar</button>
-		  <button type="button" class="btn btn-default" data-dismiss="modal">fechar</button>
+		  <button type="submit" class="btn btn-danger">Deletar</button>
+		  <button type="button" class="btn btn-default" data-dismiss="modal">Fechar</button>
 		</div>
       <div class="modal-footer">
-        <button type="button" class="btn btn-default" data-dismiss="modal">fechar</button>
+        <button type="button" class="btn btn-default" data-dismiss="modal">Voltar</button>
       </div>
     </div>
 

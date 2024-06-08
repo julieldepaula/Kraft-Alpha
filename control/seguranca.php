@@ -15,17 +15,22 @@ $_SG['conectaServidor'] = true;    // Abre uma conexão com o servidor MySQL?
 $_SG['abreSessao'] = true;         // Inicia a sessão com um session_start()?
 $_SG['caseSensitive'] = false;     // Usar case-sensitive? Onde 'thiago' é diferente de 'THIAGO'
 $_SG['validaSempre'] = true;       // Deseja validar o usuário e a senha a cada carregamento de página?
-
+ /*
+	$dbhost = 'mysql.kraftsolutions.com.br';
+    $dbUsername = 'kraftsolutions';
+    $dbPassword = '683qvl6wwexd';
+    $dbName = 'kraftsolutions';
+*/
 // Evita que, ao mudar os dados do usuário no banco de dado o mesmo contiue logado.
-$_SG['servidor'] = 'localhost';    // Servidor MySQL
-$_SG['usuario'] = 'uzjeiu16yzhey';          // Usuário MySQL
+$_SG['servidor'] = 'mysql.kraftsolutions.com.br';    // Servidor MySQL
+$_SG['usuario'] = 'kraftsolutions';          // Usuário MySQL
 $_SG['senha'] = '683qvl6wwexd';                // Senha MySQL
-$_SG['banco'] = 'dbv6oy5vcjxk6f';            // Banco de dados MySQL
-$_SG['paginaLogin'] = '/controle/login.html'; // Página de login
+$_SG['banco'] = 'kraftsolutions';            // Banco de dados MySQL
+$_SG['paginaLogin'] = '/alpha/index.html'; // Página de login
 $_SG['tabela'] = 'usuario';       // Nome da tabela onde os usuários são salvos
 // ==============================
-$default_from = "curso@luciferianismo.org.br"; // Deve ser um email válido do domínio
-$default_emailto = "reisla.rodrigues@gmail.com";
+$default_from = ""; // Deve ser um email válido do domínio
+$default_emailto = "";
 
 
 // Verifica se precisa fazer a conexão com o MySQL

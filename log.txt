@@ -33,3 +33,324 @@
 2024-04-11 01:34:57 - 2804:14d:5c81:8cf3:81ed:401f:d486:3f59 - 4 - reisla - view_user.php - update-> 3
 2024-04-11 19:38:15 - 177.23.48.42 -  -  - painel.php - protege pagina: Não há usuário ativo.
 2024-04-11 19:38:15 - 177.23.48.42 -  -  - painel.php - logout - 
+2024-04-12 00:06:40 - 177.23.48.42 -  -  - painel.php - protege pagina: Não há usuário ativo.
+2024-04-12 00:06:40 - 177.23.48.42 -  -  - painel.php - logout - 
+2024-04-13 11:59:12 - 2804:14d:5c81:8cf3:998e:2dcd:c206:3f9e - 4 - reisla - view_user.php - update-> 3
+2024-04-13 12:00:22 - 2804:14d:5c81:8cf3:998e:2dcd:c206:3f9e - 4 - reisla - view_user.php - update=> 3
+2024-04-13 12:00:22 - 2804:14d:5c81:8cf3:998e:2dcd:c206:3f9e - 4 - reisla - view_user.php - nome=>JULIEL-2
+2024-04-13 12:00:22 - 2804:14d:5c81:8cf3:998e:2dcd:c206:3f9e - 4 - reisla - view_user.php - celular=>21 9 7529 6042-15
+2024-04-13 12:00:22 - 2804:14d:5c81:8cf3:998e:2dcd:c206:3f9e - 4 - reisla - view_user.php - email=>-8
+2024-04-13 12:00:22 - 2804:14d:5c81:8cf3:998e:2dcd:c206:3f9e - 4 - reisla - view_user.php - secret=>827ccb0eea8a706c4c34a16891f84e7b-24
+2024-04-13 12:00:22 - 2804:14d:5c81:8cf3:998e:2dcd:c206:3f9e - 4 - reisla - view_user.php - senha=>-
+2024-04-13 12:00:22 - 2804:14d:5c81:8cf3:998e:2dcd:c206:3f9e - 4 - reisla - view_user.php - confirma=>-
+2024-04-13 12:00:22 - 2804:14d:5c81:8cf3:998e:2dcd:c206:3f9e - 4 - reisla - view_user.php - role=>a-32
+2024-04-13 12:00:22 - 2804:14d:5c81:8cf3:998e:2dcd:c206:3f9e - 4 - reisla - view_user.php - user_id=>4-
+2024-04-13 12:00:22 - 2804:14d:5c81:8cf3:998e:2dcd:c206:3f9e - 4 - reisla - view_user.php - user_cadastro=>reisla-
+2024-04-13 12:00:22 - 2804:14d:5c81:8cf3:998e:2dcd:c206:3f9e - 4 - reisla - view_user.php - dt_registro=>13/04/2024 11:59:12-
+2024-04-13 12:00:22 - 2804:14d:5c81:8cf3:998e:2dcd:c206:3f9e - 4 - reisla - view_user.php - id=>3-
+2024-04-13 12:00:22 - 2804:14d:5c81:8cf3:998e:2dcd:c206:3f9e - 4 - reisla - view_user.php - act=>update-
+2024-04-13 12:00:22 - 2804:14d:5c81:8cf3:998e:2dcd:c206:3f9e - 4 - reisla - view_user.php - UPDATE  `usuario` SET `nome` = 'JULIEL', `celular` = '21 9 7529 6042', `email` = '', `secret` = '827ccb0eea8a706c4c34a16891f84e7b', `role` = 'a' WHERE `id`=3
+2024-04-13 13:54:29 - 2804:14d:5c81:8cf3:998e:2dcd:c206:3f9e - 4 - reisla - view_user.php - update-> 4
+2024-04-13 13:55:09 - 2804:14d:5c81:8cf3:998e:2dcd:c206:3f9e - 4 - reisla - view_user.php - update-> 4
+2024-04-13 14:13:00 - 2804:14d:5c81:8cf3:998e:2dcd:c206:3f9e - 4 - reisla - view_user.php - update-> 1
+2024-04-13 14:16:33 - 2804:14d:5c81:8cf3:998e:2dcd:c206:3f9e - 4 - reisla - view_user.php - update-> 1
+2024-04-13 14:21:05 - 2804:14d:5c81:8cf3:998e:2dcd:c206:3f9e - 4 - reisla - view_user.php - update-> 1
+2024-04-13 14:25:52 - 2804:14d:5c81:8cf3:998e:2dcd:c206:3f9e - 4 - reisla - view_user.php - update-> 1
+2024-04-13 14:26:05 - 2804:14d:5c81:8cf3:998e:2dcd:c206:3f9e - 4 - reisla - view_user.php - update-> 1
+2024-04-13 14:27:55 - 2804:14d:5c81:8cf3:998e:2dcd:c206:3f9e - 4 - reisla - view_user.php - update-> 4
+2024-04-13 14:31:13 - 2804:14d:5c81:8cf3:998e:2dcd:c206:3f9e - 4 - reisla - view_user.php - update-> 4
+2024-04-13 14:39:19 - 2804:14d:5c81:8cf3:998e:2dcd:c206:3f9e - 4 - reisla - view_user.php - update-> 4
+2024-04-13 14:40:27 - 2804:14d:5c81:8cf3:998e:2dcd:c206:3f9e - 4 - reisla - view_user.php - update-> 4
+2024-04-13 14:41:02 - 2804:14d:5c81:8cf3:998e:2dcd:c206:3f9e - 4 - reisla - view_user.php - update-> 4
+2024-04-13 14:41:05 - 2804:14d:5c81:8cf3:998e:2dcd:c206:3f9e - 4 - reisla - view_user.php - update-> 4
+2024-04-13 14:44:53 - 2804:14d:5c81:8cf3:998e:2dcd:c206:3f9e - 4 - reisla - view_user.php - update-> 4
+2024-04-13 14:46:08 - 2804:14d:5c81:8cf3:998e:2dcd:c206:3f9e - 4 - reisla - view_user.php - update-> 4
+2024-04-13 14:46:16 - 2804:14d:5c81:8cf3:998e:2dcd:c206:3f9e - 4 - reisla - view_user.php - update-> 4
+2024-04-13 14:48:03 - 2804:14d:5c81:8cf3:998e:2dcd:c206:3f9e - 4 - reisla - view_user.php - update-> 4
+2024-04-13 14:48:11 - 2804:14d:5c81:8cf3:998e:2dcd:c206:3f9e - 4 - reisla - view_user.php - update-> 4
+2024-04-13 14:48:30 - 2804:14d:5c81:8cf3:998e:2dcd:c206:3f9e - 4 - reisla - view_user.php - update-> 6
+2024-04-13 14:53:08 - 2804:14d:5c81:8cf3:998e:2dcd:c206:3f9e - 4 - reisla - view_user.php - update-> 6
+2024-04-13 14:53:23 - 2804:14d:5c81:8cf3:998e:2dcd:c206:3f9e - 4 - reisla - view_user.php - update-> 6
+2024-04-13 14:53:39 - 2804:14d:5c81:8cf3:998e:2dcd:c206:3f9e - 4 - reisla - view_user.php - update-> 6
+2024-04-13 14:53:49 - 2804:14d:5c81:8cf3:998e:2dcd:c206:3f9e - 4 - reisla - view_user.php - update-> 4
+2024-04-13 14:58:37 - 2804:14d:5c81:8cf3:998e:2dcd:c206:3f9e - 4 - reisla - view_user.php - update-> 6
+2024-04-13 14:58:39 - 2804:14d:5c81:8cf3:998e:2dcd:c206:3f9e - 4 - reisla - view_user.php - update-> 6
+2024-04-13 14:58:40 - 2804:14d:5c81:8cf3:998e:2dcd:c206:3f9e - 4 - reisla - view_user.php - update-> 6
+2024-04-13 14:58:40 - 2804:14d:5c81:8cf3:998e:2dcd:c206:3f9e - 4 - reisla - view_user.php - update-> 6
+2024-04-13 14:58:47 - 2804:14d:5c81:8cf3:998e:2dcd:c206:3f9e - 4 - reisla - view_user.php - update-> 6
+2024-04-13 15:00:29 - 2804:14d:5c81:8cf3:998e:2dcd:c206:3f9e - 4 - reisla - view_user.php - update-> 6
+2024-04-13 15:00:31 - 2804:14d:5c81:8cf3:998e:2dcd:c206:3f9e - 4 - reisla - view_user.php - update-> 6
+2024-04-13 15:00:32 - 2804:14d:5c81:8cf3:998e:2dcd:c206:3f9e - 4 - reisla - view_user.php - update-> 6
+2024-04-13 15:00:33 - 2804:14d:5c81:8cf3:998e:2dcd:c206:3f9e - 4 - reisla - view_user.php - update-> 6
+2024-04-13 15:00:33 - 2804:14d:5c81:8cf3:998e:2dcd:c206:3f9e - 4 - reisla - view_user.php - update-> 6
+2024-04-13 15:00:33 - 2804:14d:5c81:8cf3:998e:2dcd:c206:3f9e - 4 - reisla - view_user.php - update-> 6
+2024-04-13 15:00:34 - 2804:14d:5c81:8cf3:998e:2dcd:c206:3f9e - 4 - reisla - view_user.php - update-> 6
+2024-04-13 15:00:34 - 2804:14d:5c81:8cf3:998e:2dcd:c206:3f9e - 4 - reisla - view_user.php - update-> 6
+2024-04-13 15:00:47 - 2804:14d:5c81:8cf3:998e:2dcd:c206:3f9e - 4 - reisla - view_user.php - update-> 6
+2024-04-13 15:02:06 - 2804:14d:5c81:8cf3:998e:2dcd:c206:3f9e - 4 - reisla - view_user.php - update-> 6
+2024-04-13 15:02:08 - 2804:14d:5c81:8cf3:998e:2dcd:c206:3f9e - 4 - reisla - view_user.php - update-> 6
+2024-04-13 15:02:09 - 2804:14d:5c81:8cf3:998e:2dcd:c206:3f9e - 4 - reisla - view_user.php - update-> 6
+2024-04-13 15:02:09 - 2804:14d:5c81:8cf3:998e:2dcd:c206:3f9e - 4 - reisla - view_user.php - update-> 6
+2024-04-13 15:02:10 - 2804:14d:5c81:8cf3:998e:2dcd:c206:3f9e - 4 - reisla - view_user.php - update-> 6
+2024-04-13 15:02:16 - 2804:14d:5c81:8cf3:998e:2dcd:c206:3f9e - 4 - reisla - view_user.php - update-> 6
+2024-04-13 15:02:18 - 2804:14d:5c81:8cf3:998e:2dcd:c206:3f9e - 4 - reisla - view_user.php - update-> 6
+2024-04-13 15:03:42 - 2804:14d:5c81:8cf3:998e:2dcd:c206:3f9e - 4 - reisla - view_user.php - update-> 6
+2024-04-13 15:04:50 - 2804:14d:5c81:8cf3:998e:2dcd:c206:3f9e - 4 - reisla - view_user.php - update-> 6
+2024-04-13 15:04:52 - 2804:14d:5c81:8cf3:998e:2dcd:c206:3f9e - 4 - reisla - view_user.php - update-> 6
+2024-04-13 15:04:53 - 2804:14d:5c81:8cf3:998e:2dcd:c206:3f9e - 4 - reisla - view_user.php - update-> 6
+2024-04-13 15:05:15 - 2804:14d:5c81:8cf3:998e:2dcd:c206:3f9e - 4 - reisla - view_user.php - update-> 4
+2024-04-13 15:06:37 - 2804:14d:5c81:8cf3:998e:2dcd:c206:3f9e - 4 - reisla - view_user.php - update-> 4
+2024-04-13 15:06:39 - 2804:14d:5c81:8cf3:998e:2dcd:c206:3f9e - 4 - reisla - view_user.php - update-> 4
+2024-04-13 15:06:40 - 2804:14d:5c81:8cf3:998e:2dcd:c206:3f9e - 4 - reisla - view_user.php - update-> 4
+2024-04-13 15:06:40 - 2804:14d:5c81:8cf3:998e:2dcd:c206:3f9e - 4 - reisla - view_user.php - update-> 4
+2024-04-13 15:06:41 - 2804:14d:5c81:8cf3:998e:2dcd:c206:3f9e - 4 - reisla - view_user.php - update-> 4
+2024-04-13 15:07:11 - 2804:14d:5c81:8cf3:998e:2dcd:c206:3f9e - 4 - reisla - view_user.php - update-> 4
+2024-04-13 15:08:00 - 2804:14d:5c81:8cf3:998e:2dcd:c206:3f9e - 4 - reisla - view_user.php - update-> 4
+2024-04-13 15:08:44 - 2804:14d:5c81:8cf3:998e:2dcd:c206:3f9e - 4 - reisla - view_user.php - update-> 4
+2024-04-13 15:10:32 - 2804:14d:5c81:8cf3:998e:2dcd:c206:3f9e - 4 - reisla - view_user.php - update-> 4
+2024-04-13 15:10:34 - 2804:14d:5c81:8cf3:998e:2dcd:c206:3f9e - 4 - reisla - view_user.php - update-> 4
+2024-04-13 15:12:58 - 2804:14d:5c81:8cf3:998e:2dcd:c206:3f9e - 4 - reisla - view_user.php - update-> 4
+2024-04-13 15:17:38 - 2804:14d:5c81:8cf3:998e:2dcd:c206:3f9e - 4 - reisla - view_user.php - update-> 4
+2024-04-13 15:17:43 - 2804:14d:5c81:8cf3:998e:2dcd:c206:3f9e - 4 - reisla - view_user.php - update-> 6
+2024-04-13 15:17:54 - 2804:14d:5c81:8cf3:998e:2dcd:c206:3f9e - 4 - reisla - view_user.php - update-> 4
+2024-04-13 15:17:56 - 2804:14d:5c81:8cf3:998e:2dcd:c206:3f9e - 4 - reisla - view_user.php - update-> 6
+2024-04-13 15:17:58 - 2804:14d:5c81:8cf3:998e:2dcd:c206:3f9e - 4 - reisla - view_user.php - update-> 6
+2024-04-13 15:18:30 - 2804:14d:5c81:8cf3:998e:2dcd:c206:3f9e - 4 - reisla - view_user.php - update-> 4
+2024-04-13 15:21:16 - 2804:14d:5c81:8cf3:998e:2dcd:c206:3f9e - 4 - reisla - view_user.php - update-> 4
+2024-04-13 15:50:31 - 2804:14d:5c81:8cf3:998e:2dcd:c206:3f9e - 4 - reisla - view_user.php - update-> 4
+2024-04-13 23:17:56 - 177.23.48.42 - 3 - JULIEL - view_user.php - -> 
+2024-04-13 23:17:56 - 177.23.48.42 - 3 - JULIEL - view_user.php - Ação não definida - 
+2024-04-13 23:19:28 - 177.23.48.42 - 3 - JULIEL - view_user.php - update-> 3
+2024-04-13 23:19:45 - 177.23.48.42 - 3 - JULIEL - view_user.php - update-> 3
+2024-04-13 23:19:48 - 177.23.48.42 - 3 - JULIEL - view_user.php - update-> 3
+2024-04-15 16:07:44 - 177.23.48.42 - 3 - JULIEL - view_user.php - -> 
+2024-04-15 16:07:44 - 177.23.48.42 - 3 - JULIEL - view_user.php - Ação não definida - 
+2024-04-15 16:07:55 - 177.23.48.42 - 3 - JULIEL - view_user.php - update-> 3
+2024-04-15 16:09:01 - 177.23.48.42 - 3 - JULIEL - view_user.php - update-> 3
+2024-04-15 16:19:12 - 177.23.48.42 - 3 - JULIEL - view_user.php - update-> 3
+2024-04-15 16:19:15 - 177.23.48.42 - 3 - JULIEL - view_user.php - update-> 3
+2024-04-15 16:19:19 - 177.23.48.42 - 3 - JULIEL - view_user.php - update-> 3
+2024-04-15 16:19:22 - 177.23.48.42 - 3 - JULIEL - view_user.php - update-> 3
+2024-04-15 16:19:25 - 177.23.48.42 - 3 - JULIEL - view_user.php - update-> 3
+2024-04-15 16:19:29 - 177.23.48.42 - 3 - JULIEL - view_user.php - update-> 3
+2024-04-15 16:19:32 - 177.23.48.42 - 3 - JULIEL - view_user.php - update-> 3
+2024-04-15 16:22:14 - 177.23.48.42 - 3 - JULIEL - view_user.php - update-> 3
+2024-04-15 16:22:18 - 177.23.48.42 - 3 - JULIEL - view_user.php - update-> 3
+2024-04-15 16:22:19 - 177.23.48.42 - 3 - JULIEL - view_user.php - update-> 3
+2024-04-15 16:24:26 - 177.23.48.42 - 3 - JULIEL - view_user.php - update-> 3
+2024-04-15 16:44:50 - 177.23.48.42 - 3 - JULIEL - edit.php - -> 
+2024-04-15 16:44:50 - 177.23.48.42 - 3 - JULIEL - edit.php - Ação não definida - 
+2024-04-15 16:45:05 - 177.23.48.42 - 3 - JULIEL - edit.php - -> 
+2024-04-15 16:45:05 - 177.23.48.42 - 3 - JULIEL - edit.php - Ação não definida - 
+2024-04-15 16:50:40 - 177.23.48.42 - 3 - JULIEL - view_user.php - update-> 3
+2024-04-15 16:51:05 - 177.23.48.42 - 3 - JULIEL - edit.php - -> 
+2024-04-15 16:51:05 - 177.23.48.42 - 3 - JULIEL - edit.php - Ação não definida - 
+2024-04-15 16:51:12 - 177.23.48.42 - 3 - JULIEL - view_user.php - update-> 3
+2024-04-15 16:51:35 - 177.23.48.42 - 3 - JULIEL - edit.php - -> 
+2024-04-15 16:51:35 - 177.23.48.42 - 3 - JULIEL - edit.php - Ação não definida - 
+2024-04-15 16:53:32 - 177.23.48.42 - 3 - JULIEL - edit.php - -> 
+2024-04-15 16:53:32 - 177.23.48.42 - 3 - JULIEL - edit.php - Ação não definida - 
+2024-04-15 16:55:14 - 177.23.48.42 - 3 - JULIEL - edit.php - -> 
+2024-04-15 16:55:14 - 177.23.48.42 - 3 - JULIEL - edit.php - Ação não definida - 
+2024-04-15 16:55:17 - 177.23.48.42 - 3 - JULIEL - edit.php - -> 
+2024-04-15 16:55:17 - 177.23.48.42 - 3 - JULIEL - edit.php - Ação não definida - 
+2024-04-15 16:55:19 - 177.23.48.42 - 3 - JULIEL - edit.php - -> 
+2024-04-15 16:55:19 - 177.23.48.42 - 3 - JULIEL - edit.php - Ação não definida - 
+2024-04-15 17:03:12 - 177.23.48.42 - 3 - JULIEL - edit.php - -> 
+2024-04-15 17:03:12 - 177.23.48.42 - 3 - JULIEL - edit.php - Ação não definida - 
+2024-04-15 17:53:37 - 177.23.48.42 - 3 - JULIEL - edit.php - -> 
+2024-04-15 17:53:37 - 177.23.48.42 - 3 - JULIEL - edit.php - Ação não definida - 
+2024-04-15 17:56:03 - 177.23.48.42 - 3 - JULIEL - edit.php - -> 
+2024-04-15 17:56:03 - 177.23.48.42 - 3 - JULIEL - edit.php - Ação não definida - 
+2024-04-15 17:56:38 - 177.23.48.42 - 3 - JULIEL - edit.php - -> 
+2024-04-15 17:56:38 - 177.23.48.42 - 3 - JULIEL - edit.php - Ação não definida - 
+2024-04-15 17:57:41 - 177.23.48.42 - 3 - JULIEL - edit.php - -> 
+2024-04-15 17:57:41 - 177.23.48.42 - 3 - JULIEL - edit.php - Ação não definida - 
+2024-04-15 17:57:41 - 177.23.48.42 - 3 - JULIEL - edit.php - -> 
+2024-04-15 17:57:41 - 177.23.48.42 - 3 - JULIEL - edit.php - Ação não definida - 
+2024-04-15 17:57:44 - 177.23.48.42 - 3 - JULIEL - edit.php - -> 
+2024-04-15 17:57:44 - 177.23.48.42 - 3 - JULIEL - edit.php - Ação não definida - 
+2024-04-15 18:04:44 - 177.23.48.42 - 3 - JULIEL - edit.php - -> 
+2024-04-15 18:04:44 - 177.23.48.42 - 3 - JULIEL - edit.php - Ação não definida - 
+2024-04-15 18:05:51 - 177.23.48.42 - 3 - JULIEL - edit.php - -> 
+2024-04-15 18:05:51 - 177.23.48.42 - 3 - JULIEL - edit.php - Ação não definida - 
+2024-04-15 18:05:59 - 177.23.48.42 - 3 - JULIEL - edit.php - -> 
+2024-04-15 18:05:59 - 177.23.48.42 - 3 - JULIEL - edit.php - Ação não definida - 
+2024-04-15 18:06:04 - 177.23.48.42 - 3 - JULIEL - edit.php - -> 
+2024-04-15 18:06:04 - 177.23.48.42 - 3 - JULIEL - edit.php - Ação não definida - 
+2024-04-15 18:12:18 - 177.23.48.42 - 3 - JULIEL - edit.php - -> 
+2024-04-15 18:12:18 - 177.23.48.42 - 3 - JULIEL - edit.php - Ação não definida - 
+2024-04-15 18:17:32 - 177.23.48.42 - 3 - JULIEL - view_user.php - new-> 
+2024-04-15 18:23:20 - 177.23.48.42 - 3 - JULIEL - view_user.php - update-> 3
+2024-04-15 18:23:25 - 177.23.48.42 - 3 - JULIEL - view_user.php - update-> 3
+2024-04-15 18:25:33 - 177.23.48.42 - 3 - JULIEL - view_user.php - update-> 3
+2024-04-16 07:54:20 - 177.23.48.42 - 3 - JULIEL - edit.php - -> 
+2024-04-16 07:54:20 - 177.23.48.42 - 3 - JULIEL - edit.php - Ação não definida - 
+2024-04-16 07:54:41 - 177.23.48.42 - 3 - JULIEL - edit.php - -> 
+2024-04-16 07:54:41 - 177.23.48.42 - 3 - JULIEL - edit.php - Ação não definida - 
+2024-04-16 07:57:01 - 177.23.48.42 - 3 - JULIEL - edit.php - -> 
+2024-04-16 07:57:01 - 177.23.48.42 - 3 - JULIEL - edit.php - Ação não definida - 
+2024-04-16 07:58:57 - 177.23.48.42 - 3 - JULIEL - edit.php - -> 
+2024-04-16 07:58:57 - 177.23.48.42 - 3 - JULIEL - edit.php - Ação não definida - 
+2024-04-16 07:59:21 - 177.23.48.42 - 3 - JULIEL - edit.php - -> 
+2024-04-16 07:59:21 - 177.23.48.42 - 3 - JULIEL - edit.php - Ação não definida - 
+2024-04-16 08:02:03 - 177.23.48.42 - 3 - JULIEL - view_user.php - -> 
+2024-04-16 08:02:03 - 177.23.48.42 - 3 - JULIEL - view_user.php - Ação não definida - 
+2024-04-16 08:04:44 - 177.23.48.42 - 3 - JULIEL - view_user.php - -> 
+2024-04-16 08:04:44 - 177.23.48.42 - 3 - JULIEL - view_user.php - Ação não definida - 
+2024-04-16 08:28:30 - 177.23.48.42 - 3 - JULIEL - view_user.php - -> 
+2024-04-16 08:28:30 - 177.23.48.42 - 3 - JULIEL - view_user.php - Ação não definida - 
+2024-04-16 08:31:24 - 177.23.48.42 - 3 - JULIEL - view_user.php - -> 
+2024-04-16 08:31:24 - 177.23.48.42 - 3 - JULIEL - view_user.php - Ação não definida - 
+2024-04-16 08:33:02 - 177.23.48.42 - 3 - JULIEL - edit.php - -> 
+2024-04-16 08:33:02 - 177.23.48.42 - 3 - JULIEL - edit.php - Ação não definida - 
+2024-04-16 08:33:51 - 177.23.48.42 - 3 - JULIEL - view_user.php - -> 
+2024-04-16 08:33:51 - 177.23.48.42 - 3 - JULIEL - view_user.php - Ação não definida - 
+2024-04-16 08:34:00 - 177.23.48.42 - 3 - JULIEL - edit.php - -> 
+2024-04-16 08:34:00 - 177.23.48.42 - 3 - JULIEL - edit.php - Ação não definida - 
+2024-04-16 08:41:45 - 177.23.48.42 - 3 - JULIEL - edit.php - -> 
+2024-04-16 08:41:45 - 177.23.48.42 - 3 - JULIEL - edit.php - Ação não definida - 
+2024-04-16 15:05:08 - 177.23.48.42 - 3 - JULIEL - view_user.php - update-> 1
+2024-04-16 17:50:35 - 177.23.48.42 - 3 - JULIEL - view_user.php - update-> 3
+2024-04-16 18:52:14 - 2804:388:411b:7ab5:1:0:8773:2de1 -  -  - painel.php - protege pagina: Não há usuário ativo.
+2024-04-16 18:52:14 - 2804:388:411b:7ab5:1:0:8773:2de1 -  -  - painel.php - logout - 
+2024-04-16 19:47:21 - 2804:388:411b:7ab5:1:0:8773:2de1 - 3 - JULIEL - edit.php - -> 
+2024-04-16 19:47:21 - 2804:388:411b:7ab5:1:0:8773:2de1 - 3 - JULIEL - edit.php - Ação não definida - 
+2024-04-16 19:48:19 - 2804:388:411b:7ab5:1:0:8773:2de1 - 3 - JULIEL - view_user.php - update-> 1
+2024-04-16 19:48:25 - 2804:388:411b:7ab5:1:0:8773:2de1 - 3 - JULIEL - view_user.php - update-> 4
+2024-04-16 23:51:13 - 177.23.48.42 - 3 - JULIEL - edit.php - -> 
+2024-04-16 23:51:13 - 177.23.48.42 - 3 - JULIEL - edit.php - Ação não definida - 
+2024-04-16 23:51:27 - 177.23.48.42 - 3 - JULIEL - view_user.php - update-> 3
+2024-04-17 00:37:04 - 177.23.48.42 - 3 - JULIEL - view_user.php - update-> 1
+2024-04-17 00:37:27 - 177.23.48.42 - 3 - JULIEL - view_user.php - update-> 3
+2024-04-17 00:37:34 - 177.23.48.42 - 3 - JULIEL - view_user.php - update-> 4
+2024-04-17 00:38:48 - 177.23.48.42 - 3 - JULIEL - edit.php - update-> 1
+2024-04-17 00:40:33 - 177.23.48.42 - 3 - JULIEL - edit.php - update-> 3
+2024-04-17 01:01:41 - 177.23.48.42 - 3 - JULIEL - edit.php - update-> 3
+2024-04-17 01:22:11 - 177.23.48.42 - 3 - JULIEL - edit.php - update-> 1
+2024-04-17 01:25:32 - 177.23.48.42 - 3 - JULIEL - edit.php - update-> 1
+2024-04-17 01:28:06 - 177.23.48.42 - 3 - JULIEL - edit.php - update-> 1
+2024-04-17 01:28:37 - 177.23.48.42 - 3 - JULIEL - edit.php - update-> 1
+2024-04-17 22:53:30 - 177.23.48.42 - 3 - JULIEL - edit.php - update-> 1
+2024-04-17 22:54:53 - 177.23.48.42 - 3 - JULIEL - edit.php - update-> 1
+2024-04-17 22:55:31 - 177.23.48.42 - 3 - JULIEL - edit.php - update-> 1
+2024-04-17 23:23:18 - 177.23.48.42 - 3 - JULIEL - view_user.php - update-> 1
+2024-04-17 23:26:16 - 177.23.48.42 - 3 - JULIEL - edit.php - update-> 1
+2024-04-18 00:48:45 - 177.23.48.42 - 3 - JULIEL - edit.php - update-> 1
+2024-04-18 00:48:47 - 177.23.48.42 - 3 - JULIEL - edit.php - update-> 1
+2024-04-18 00:48:50 - 177.23.48.42 - 3 - JULIEL - edit.php - update-> 1
+2024-04-18 00:48:52 - 177.23.48.42 - 3 - JULIEL - edit.php - update-> 1
+2024-04-18 00:48:58 - 177.23.48.42 - 3 - JULIEL - edit.php - update-> 1
+2024-04-18 01:06:36 - 177.23.48.42 - 3 - JULIEL - edit.php - update-> 1
+2024-04-18 01:09:57 - 177.23.48.42 - 3 - JULIEL - edit.php - update-> 1
+2024-04-18 08:05:15 - 2804:388:411d:f63f:1:0:8fcc:e1f2 - 3 - JULIEL - edit.php - update-> 1
+2024-04-19 00:30:47 - 177.23.48.42 - 3 - JULIEL - edit.php - update-> 1
+2024-04-19 01:25:37 - 177.23.48.42 - 3 - JULIEL - view_user.php - update-> 1
+2024-04-19 12:59:17 - 177.23.48.42 - 3 - JULIEL - view_user.php - update-> 1
+2024-04-19 13:06:20 - 177.23.48.42 - 3 - JULIEL - edit.php - update-> 1
+2024-04-19 13:06:33 - 177.23.48.42 - 3 - JULIEL - edit.php - update-> 3
+2024-04-19 13:06:38 - 177.23.48.42 - 3 - JULIEL - edit.php - update-> 4
+2024-04-19 13:06:44 - 177.23.48.42 - 3 - JULIEL - edit.php - update-> 6
+2024-04-19 13:06:58 - 177.23.48.42 - 3 - JULIEL - edit.php - update-> 6
+2024-04-19 13:09:47 - 177.23.48.42 - 3 - JULIEL - edit.php - update-> 1
+2024-04-19 13:19:53 - 177.23.48.42 - 3 - JULIEL - edit.php - update-> 1
+2024-04-19 13:20:57 - 177.23.48.42 - 3 - JULIEL - edit.php - update-> 6
+2024-04-19 13:21:09 - 177.23.48.42 - 3 - JULIEL - edit.php - update-> 6
+2024-04-19 13:25:07 - 177.23.48.42 - 3 - JULIEL - edit.php - update-> 6
+2024-04-19 13:26:08 - 2804:14d:5c81:8cf3:e559:69c4:88a:129c -  -  - list_user.php - protege pagina: Não há usuário ativo.
+2024-04-19 13:26:08 - 2804:14d:5c81:8cf3:e559:69c4:88a:129c -  -  - list_user.php - logout - 
+2024-04-19 13:26:16 - 177.23.48.42 - 3 - JULIEL - edit.php - update-> 6
+2024-04-19 13:26:27 - 177.23.48.42 - 3 - JULIEL - edit.php - update-> 6
+2024-04-19 16:32:11 - 2804:14d:5c81:8cf3:e181:b573:6615:3c3c - 4 - reisla - edit.php - update-> 1
+2024-04-19 17:08:46 - 177.23.48.42 - 3 - JULIEL - view_user.php - update-> 3
+2024-04-19 17:12:45 - 177.23.48.42 - 3 - JULIEL - edit.php - update-> 1
+2024-04-19 17:12:54 - 177.23.48.42 - 3 - JULIEL - edit.php - update-> 1
+2024-04-19 17:12:58 - 177.23.48.42 - 3 - JULIEL - edit.php - update-> 3
+2024-04-19 17:20:21 - 177.23.48.42 - 3 - JULIEL - view_empresa.php - update-> 1
+2024-04-19 17:30:38 - 177.23.48.42 - 3 - JULIEL - view_empresa.php - update-> 1
+2024-04-19 17:45:28 - 177.23.48.42 - 3 - JULIEL - view_empresa.php - update-> 1
+2024-04-19 17:46:13 - 177.23.48.42 - 3 - JULIEL - view_empresa.php - update-> 1
+2024-04-19 17:48:22 - 177.23.48.42 - 3 - JULIEL - view_user.php - update-> 1
+2024-04-19 17:48:43 - 177.23.48.42 - 3 - JULIEL - view_empresa.php - update-> 1
+2024-04-20 07:55:13 - 2804:388:4113:787e:1:0:9a4e:2364 -  -  - painel.php - protege pagina: Não há usuário ativo.
+2024-04-20 07:55:13 - 2804:388:4113:787e:1:0:9a4e:2364 -  -  - painel.php - logout - 
+2024-04-20 07:56:09 - 2804:388:4113:787e:1:0:9a4e:2364 - 3 - JULIEL - view_empresa.php - update-> 1
+2024-04-20 14:53:18 - 2804:388:411e:50db:1:0:9b9e:e698 - 3 - JULIEL - view_empresa.php - update-> 1
+2024-04-20 15:56:57 - 2804:388:411e:50db:1:0:9b9e:e698 - 3 - JULIEL - view_empresa.php - update-> 1
+2024-04-20 15:57:37 - 2804:388:411e:50db:1:0:9b9e:e698 - 3 - JULIEL - view_empresa.php - update-> 1
+2024-04-23 09:14:26 - 177.23.48.42 - 3 - JULIEL - view_user.php - update-> 3
+2024-04-23 09:14:36 - 177.23.48.42 - 3 - JULIEL - view_empresa.php - update-> 1
+2024-04-25 09:26:21 - 2804:7f1:eb42:c0c5:75eb:7efd:4436:3fed - 3 - JULIEL - view_empresa.php - update-> 1
+2024-04-27 03:52:27 - 2804:7f1:eb42:c0c5:75eb:7efd:4436:3fed - 3 - JULIEL - view_empresa.php - update-> 1
+2024-05-03 16:30:19 - 177.23.48.42 - 3 - JULIEL - view_user.php - new-> 
+2024-05-03 16:30:38 - 177.23.48.42 - 3 - JULIEL - view_user.php - update-> 3
+2024-05-03 16:30:45 - 177.23.48.42 - 3 - JULIEL - view_user.php - new-> 
+2024-05-03 16:30:52 - 177.23.48.42 - 3 - JULIEL - view_user.php - new-> 
+2024-05-03 16:31:05 - 177.23.48.42 - 3 - JULIEL - view_user.php - new-> 
+2024-05-07 14:54:01 - 177.23.48.42 -  -  - view_empresa.php - protege pagina: Não há usuário ativo.
+2024-05-07 14:54:01 - 177.23.48.42 -  -  - view_empresa.php - logout - 
+2024-05-07 14:54:01 - 177.23.48.42 -  -  - view_empresa.php - protege pagina: Não há usuário ativo.
+2024-05-07 14:54:01 - 177.23.48.42 -  -  - view_empresa.php - logout - 
+2024-05-07 14:54:01 - 177.23.48.42 -  -  - view_empresa.php - update-> 1
+2024-05-07 14:54:24 - 177.23.48.42 - 3 - JULIEL - view_empresa.php - update-> 1
+2024-05-07 14:54:31 - 177.23.48.42 - 3 - JULIEL - view_empresa.php - update-> 19
+2024-05-07 15:00:19 - 177.23.48.42 - 3 - JULIEL - view_empresa.php - update-> 19
+2024-05-07 15:00:31 - 177.23.48.42 - 3 - JULIEL - view_empresa.php - update-> 19
+2024-05-07 15:00:41 - 177.23.48.42 - 3 - JULIEL - view_empresa.php - update-> 19
+2024-05-07 15:00:55 - 177.23.48.42 - 3 - JULIEL - view_empresa.php - update-> 19
+2024-05-07 15:12:05 - 177.23.48.42 - 3 - JULIEL - view_empresa.php - update-> 19
+2024-05-07 15:45:02 - 177.23.48.42 - 3 - JULIEL - view_empresa.php - update-> 19
+2024-05-07 15:52:14 - 177.23.48.42 - 3 - JULIEL - view_empresa.php - update-> 19
+2024-05-07 15:52:26 - 177.23.48.42 - 3 - JULIEL - view_user.php - update-> 3
+2024-05-07 15:52:34 - 177.23.48.42 - 3 - JULIEL - view_user.php - update-> 4
+2024-05-07 15:53:19 - 177.23.48.42 - 3 - JULIEL - view_user.php - update-> 3
+2024-05-07 15:53:25 - 177.23.48.42 - 3 - JULIEL - view_user.php - update=> 3
+2024-05-07 15:53:25 - 177.23.48.42 - 3 - JULIEL - view_user.php - UPDATE  `usuario` SET `nome` = 'JULIEL', `celular` = '21 9 7529 604', `email` = '', `secret` = '827ccb0eea8a706c4c34a16891f84e7b', `role` = 'a' WHERE `id`=3
+2024-05-07 15:53:31 - 177.23.48.42 - 3 - JULIEL - view_user.php - update-> 3
+2024-05-07 15:53:36 - 177.23.48.42 - 3 - JULIEL - view_user.php - update=> 3
+2024-05-07 15:53:36 - 177.23.48.42 - 3 - JULIEL - view_user.php - UPDATE  `usuario` SET `nome` = 'JULIEL', `celular` = '21 9 7529 6042', `email` = '', `secret` = '827ccb0eea8a706c4c34a16891f84e7b', `role` = 'a' WHERE `id`=3
+2024-05-07 16:10:35 - 177.23.48.42 - 3 - JULIEL - view_empresa.php - update-> 19
+2024-05-07 16:11:43 - 177.23.48.42 - 3 - JULIEL - view_user.php - update-> 1
+2024-05-07 16:11:50 - 177.23.48.42 - 3 - JULIEL - view_user.php - update-> 3
+2024-05-07 16:13:41 - 177.23.48.42 - 3 - JULIEL - view_user.php - update-> 3
+2024-05-07 16:19:42 - 177.23.48.42 - 3 - JULIEL - view_empresa.php - update-> 19
+2024-05-07 16:19:55 - 177.23.48.42 - 3 - JULIEL - view_empresa.php - update=> 19
+2024-05-07 16:19:55 - 177.23.48.42 - 3 - JULIEL - view_empresa.php - UPDATE  `empresas` SET `empresa` = 'teste', `cnpj` = 123445, `responsavel` = 'tezte', `contato` = 'conta', `email` = 'teste@teste.com', `senha` = 123 WHERE `id`=19
+2024-05-07 16:20:04 - 177.23.48.42 - 3 - JULIEL - view_empresa.php - update-> 19
+2024-05-07 16:20:14 - 177.23.48.42 - 3 - JULIEL - view_empresa.php - update=> 19
+2024-05-07 16:20:14 - 177.23.48.42 - 3 - JULIEL - view_empresa.php - UPDATE  `empresas` SET `empresa` = 'teste', `cnpj` = 123445, `responsavel` = 'tezte', `contato` = 'contatos', `email` = 'teste@teste.com', `senha` = 123 WHERE `id`=19
+2024-05-07 16:20:20 - 177.23.48.42 - 3 - JULIEL - view_empresa.php - update-> 19
+2024-05-07 16:26:04 - 177.23.48.42 - 3 - JULIEL - view_user.php - delete=> 19
+2024-05-07 16:26:04 - 177.23.48.42 - 3 - JULIEL - view_user.php - DELETE FROM `usuario` WHERE `id`=19
+2024-05-07 16:27:02 - 177.23.48.42 - 3 - JULIEL - view_user.php - new-> 
+2024-05-07 16:27:47 - 177.23.48.42 - 3 - JULIEL - view_user.php - new=> 0
+2024-05-07 16:27:47 - 177.23.48.42 - 3 - JULIEL - view_user.php - INSERT INTO `usuario`( `nome`, `celular`, `email`, `secret`, `role` ) VALUES ( 'TESTE', '21 22222222', 'teste@teste.com', 12345, 'a' );
+2024-05-07 16:28:06 - 177.23.48.42 - 3 - JULIEL - view_user.php - delete=> 9
+2024-05-07 16:28:06 - 177.23.48.42 - 3 - JULIEL - view_user.php - DELETE FROM `usuario` WHERE `id`=9
+2024-05-07 16:30:52 - 177.23.48.42 - 3 - JULIEL - view_user.php - delete=> 19
+2024-05-07 16:30:52 - 177.23.48.42 - 3 - JULIEL - view_user.php - DELETE FROM `usuario` WHERE `id`=19
+2024-05-07 16:34:12 - 177.23.48.42 - 3 - JULIEL - view_empresa.php - delete=> 19
+2024-05-07 16:34:12 - 177.23.48.42 - 3 - JULIEL - view_empresa.php - DELETE FROM `empresas` WHERE `id`=19
+2024-05-07 16:34:20 - 177.23.48.42 - 3 - JULIEL - view_empresa.php - delete=> 18
+2024-05-07 16:34:20 - 177.23.48.42 - 3 - JULIEL - view_empresa.php - DELETE FROM `empresas` WHERE `id`=18
+2024-05-07 16:42:37 - 177.23.48.42 - 3 - JULIEL - view_user.php - new-> 
+2024-05-07 17:38:35 - 177.23.48.42 - 3 - JULIEL - view_user.php - new-> 
+2024-05-07 17:38:49 - 177.23.48.42 - 3 - JULIEL - view_user.php - new-> 
+2024-05-07 17:40:18 - 177.23.48.42 - 3 - JULIEL - view_empresa.php - new-> 
+2024-05-07 17:40:35 - 177.23.48.42 - 3 - JULIEL - view_empresa.php - update-> 1
+2024-05-07 17:43:07 - 177.23.48.42 - 3 - JULIEL - view_empresa.php - update-> 17
+2024-05-07 17:43:17 - 177.23.48.42 - 3 - JULIEL - view_empresa.php - update-> 16
+2024-05-07 17:43:23 - 177.23.48.42 - 3 - JULIEL - view_empresa.php - new-> 
+2024-05-07 17:43:28 - 177.23.48.42 - 3 - JULIEL - view_empresa.php - update-> 17
+2024-05-07 22:39:17 - 177.23.48.42 - 3 - JULIEL - view_empresa.php - update-> 16
+2024-05-07 22:39:37 - 177.23.48.42 - 3 - JULIEL - view_empresa.php - delete=> 16
+2024-05-07 22:39:37 - 177.23.48.42 - 3 - JULIEL - view_empresa.php - DELETE FROM `empresas` WHERE `id`=16
+2024-05-07 22:39:46 - 177.23.48.42 - 3 - JULIEL - view_empresa.php - update-> 17
+2024-05-07 23:03:11 - 177.23.48.42 - 3 - JULIEL - view_empresa.php - update-> 1
+2024-05-07 23:04:52 - 177.23.48.42 - 3 - JULIEL - view_user.php - update-> 3
+2024-05-07 23:07:19 - 177.23.48.42 -  -  - painel.php - protege pagina: Não há usuário ativo.
+2024-05-07 23:07:19 - 177.23.48.42 -  -  - painel.php - logout - 
+2024-05-07 23:08:50 - 177.23.48.42 - 3 - JULIEL - view_empresa.php - update-> 17
+2024-05-07 23:13:12 - 177.23.48.42 - 3 - JULIEL - view_empresa.php - update-> 1
+2024-05-08 12:52:23 - 2804:388:410c:3245:1:0:f79b:a344 -  -  - painel.php - protege pagina: Não há usuário ativo.
+2024-05-08 12:52:23 - 2804:388:410c:3245:1:0:f79b:a344 -  -  - painel.php - logout - 
